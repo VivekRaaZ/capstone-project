@@ -89,7 +89,7 @@ Clone this repository to your desired folder:-
 Run this commands:
 ```sh
 cd my-folder
-git clone git@github.com:VivekRaaZ/popup-window.git
+git clone git@github.com:VivekRaaZ/capstone-project.git
 ```
 
 ### Install
@@ -134,16 +134,6 @@ You can deploy this project using: github, VS Code
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
 
-👤 IsaMarvin
-
-- GitHub: [IsaMarvin](https://github.com/IsaMarvin)
-
-👤 José De La Rosa
-
-- GitHub: [@jrraul4](https://github.com/jrraul4)
-- Twitter: [@joserauldelaro](https://twitter.com/joserauldelaro1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jose-raul-de-la-rosa-98aa70265/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -170,7 +160,15 @@ Contributions, issues, and feature requests are welcome!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thanks microverse team, github team and my coding partners, who contributed towards the completion of this task.
+Credits to Cindy Shin for sharing it's template!
+
+See the [Original design idea by Cindy Shin in Behance](https://www.behance.net/adagio07)
+<br>
+You can also check the [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
+
+I would like to thank all of my family for helping me trough this Microverse course.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
