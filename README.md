@@ -31,13 +31,14 @@
 
 **Portfolio: desktop version** is a webpage built as a first project to showcase html, css with media queries, linters,  skills growup during second week of the Microverse program.
 ## 🛠 Built With <a name="built-with"></a>
+1. HTML 5
+2. CSS 3
+3. JavaScript
+4. Linters
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **HTML**
-- **CSS**
-- **Linters**
-
+> Linters configurated for both css and javascript, and have the mobile responsive view.
 
 <details>
   <summary>Client</summary>
@@ -51,10 +52,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Easy to use**
-- **Responsive design**
-- **added linters configuration**
-
+> - Added Linters
+> - Added HTML
+> - Added CSS
+> - Added JavaScript
+> - Added Image Background
+> - Added Hover
+> - Added Responsive
+> - Added Mobile Version
+> - Added About Page
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
