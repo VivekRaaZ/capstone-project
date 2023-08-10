@@ -42,8 +42,10 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.learn-html.org">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JavaScript</a></li>
+    <li><a href="https://reactjs.org/">Linters</a></li>
   </ul>
 </details>
 
@@ -57,7 +59,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://vivekraaz.github.io/portfolio/)
+- [Live Demo Link](https://vivekraaz.github.io/capstone-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,12 +139,17 @@ You can deploy this project using: github, VS Code
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Improving the outlook by implementing the responsive design**
-- [ ] **Styling the hamburger botton**
-- [ ] **Adding javascript to create our project more functional**
-- [ ] **Details popup window**
-- [ ] **Validate contact form**
+> - Added Linters
+> - Added HTML
+> - Added CSS
+> - Added JavaScript
+> - Added Multiple Image Background
+> - Added Image Background
+> - Added Hover
+> - Added Toolbar
+> - Added Responsive
+> - Added Mobile Version
+> - Added About Page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
